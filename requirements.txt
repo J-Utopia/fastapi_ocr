@@ -4,3 +4,5 @@ easyocr
 opencv-python-headless
 numpy
 python-multipart
+torch==2.2.2
+python-bidi==0.4.2
