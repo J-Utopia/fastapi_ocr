@@ -4,5 +4,4 @@ easyocr
 opencv-python-headless
 numpy
 python-multipart
-torch
 python-bidi==0.4.2
